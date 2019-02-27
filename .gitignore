@@ -80,3 +80,5 @@ typings/
 .dynamodb/
 
 .vscode
+
+src/config/mail.js

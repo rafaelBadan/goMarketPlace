@@ -1,6 +1,4 @@
 module.exports = {
-  secret: 'GoNode03',
+  secret: process.env.APP_SECRET,
   ttl: 86400
 }
-
-// TODO: create better secret and move to .env

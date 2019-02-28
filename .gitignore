@@ -81,4 +81,6 @@ typings/
 
 .vscode
 
+# Config files
 src/config/mail.js
+src/config/sentry.js
